@@ -1,0 +1,24 @@
+/* # CSS */
+@import "react-alice-carousel/lib/alice-carousel.css";
+@import "tailwindcss";
+/* # SCSS */
+@import "react-alice-carousel/lib/scss/alice-carousel.scss";
+
+
+
+
+.maxH200{
+    height: 400px;
+}
+
+
+.custombotton:hover{
+    background-color: rgb(3, 85, 250);
+    color:white;
+}
+.custombotton{
+    transition: background-color 0.5s ease,color 0.5s ease;
+    border-radius: 5px;
+    box-shadow: grey 2px 2px 2px 2px ;
+    height: 80px;
+}

@@ -1,0 +1,22 @@
+export const CarouselImages=[
+    {
+        src:"https://zola.in/cdn/shop/articles/exk7ALTt.jpg?v=1697449025",
+        path:"women/clothing/lehenga-choli"
+    },
+    {
+        src:"https://cdn.shopify.com/s/files/1/0412/0002/5751/files/ethnic_wear_chandni_chowk_126_1024x1024.png?v=1705385815",
+        path:"women/clothing/dress"
+    },
+    {
+        src:"https://images.moneycontrol.com/static-mcnews/2024/05/20240513123736_Style-tips-for-office-wear-770x433.jpg?impolicy=website&width=770&height=431",
+        path:"women/clothing/dress"
+    },
+    {
+        src:"https://kapdavilla.com/images/product/sub_images/2021/03/global-local-landscape-embroidery-rayon-kurti-designs-1-2021-03-13_13_32_03.jpeg",
+        path:"women/clothing/saree"
+    },
+    {
+        src:"https://kapdavilla.com/images/product/sub_images/2021/03/global-local-landscape-embroidery-rayon-kurti-designs-2-2021-03-13_13_32_03.jpeg",
+        path:"women/clothing/dress"
+    }
+]

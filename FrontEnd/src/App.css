@@ -1,0 +1,5 @@
+/* # CSS */
+@import "react-alice-carousel/lib/alice-carousel.css";
+@import "tailwindcss";
+/* # SCSS */
+@import "react-alice-carousel/lib/scss/alice-carousel.scss";
